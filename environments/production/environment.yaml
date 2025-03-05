@@ -3,7 +3,7 @@ app:
   # build id to deploy
   # adding comments to get a new pr
   # version: 1.0-SNAPSHOT-20230716015630
-  # number of instances
+  # number of instances 
   instances:
     # q: consider availability zones? 
 
